@@ -1,1 +1,1 @@
-console.log(boolean(1));
+// console.log(boolean(1));
