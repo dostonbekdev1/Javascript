@@ -1,0 +1,1 @@
+console.log(boolean(1));
